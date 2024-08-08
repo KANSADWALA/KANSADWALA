@@ -2,6 +2,7 @@
 <h3 align="center">I have a strong passion for Machine Learning and Data Analytics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KANSADWALA&label=Profile%20views&color=0e75b6&style=flat" alt="KANSADWALA" /> </p>
 💫 About Me:
+<hr></hr>
 <br>🌱 I’m currently diving deeper into Machine Learning and Data Science.<br>📫 How to reach me shubhamkansadwala@gmail.com
 
 
