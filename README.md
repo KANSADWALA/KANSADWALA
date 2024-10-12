@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KANSADWALA&label=Profile%20views&color=0e75b6&style=flat" alt="KANSADWALA" /> </p>
 
 ## 💫 About Me:
-<br>🌱 I’m currently diving deeper into Machine Learning and Data Science.<br>📫 How to reach me  <a href="mailto:shubhamkansadwala@gmail.com">shubhamkansadwala@gmail.com</a>
+<br>🌱 I’m currently diving deeper into Machine Learning and Data Science.<br>📫 How to reach me  <a href="mailto:shubhamkansadwala@gmail.com">shubhamkansadwala@gmail.com</a>.<br> ![image](https://github.com/user-attachments/assets/46e753b4-7e34-4bb3-8c32-f291319c66a3)
+
 
 
 ## 🌐 Socials:
