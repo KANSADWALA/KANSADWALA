@@ -7,7 +7,7 @@
 
 📫 How to reach me  <a href="mailto:shubhamkansadwala@gmail.com">shubhamkansadwala@gmail.com</a>.<br><br> 
 
-![image](https://github.com/user-attachments/assets/46e753b4-7e34-4bb3-8c32-f291319c66a3) <a href = "https://drive.google.com/file/d/1ZprvpOVNAF_UoFHbGf7EGq4LInViMHDC/view?usp=drive_link">My Resume</a>
+![image](https://github.com/user-attachments/assets/46e753b4-7e34-4bb3-8c32-f291319c66a3) <a href = "https://drive.google.com/file/d/14adkedLW5QsfqKnRiSQB23sBLpMK761u/view?usp=sharing">My Resume</a>
 
 
 
