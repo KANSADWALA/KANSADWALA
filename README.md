@@ -37,7 +37,7 @@ class AIDeveloper:
 
 ## 🚀 Current Focus & Learning
 
-<div align="center">
+<div align="left">
   
   🔬 **Exploring:** Generative AI, Large Language Models, Computer Vision  
   🛠️ **Building:** End-to-end ML pipelines, AI-powered applications  
