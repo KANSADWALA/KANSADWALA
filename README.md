@@ -22,7 +22,7 @@ class AIDeveloper:
     def __init__(self):
         self.name = "Shubham Kansadwala"
         self.role = "AI Developer & Machine Learning Engineer"
-        self.location = "India"
+        self.location = "Surat, Gujarat, India"
         self.languages = ["Python", "C++", "SQL"]
         self.current_focus = [
             "Deep Learning & Neural Networks",
