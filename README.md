@@ -17,29 +17,384 @@
 
 ## 🎯 About Me
 
-```python
-class AIDeveloper:
-    def __init__(self):
-        self.name = "Shubham Kansadwala"
-        self.role = "AI Developer & Machine Learning Engineer"
-        self.location = "India"
-        self.languages = ["Python", "C++", "JavaScript", "SQL"]
-        self.current_focus = [
-            "Deep Learning & Neural Networks",
-            "Computer Vision & NLP",
-            "MLOps & Model Deployment",
-            "Generative AI & LLMs"
-        ]
-        self.goals = "Building AI solutions that make a real-world impact"
-    
-    def get_specialties(self):
-        return {
-            "machine_learning": ["Supervised", "Unsupervised", "Reinforcement Learning"],
-            "deep_learning": ["CNN", "RNN", "Transformers", "GANs"],
-            "frameworks": ["TensorFlow", "PyTorch", "Keras", "Scikit-learn"],
-            "deployment": ["Flask", "Docker", "AWS", "MLflow"]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Developer - About Section</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
-```
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
+            min-height: 100vh;
+            color: #fff;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .about-section {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 3rem;
+            margin-bottom: 3rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .about-section::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(0, 212, 255, 0.03), transparent);
+            animation: rotate 20s linear infinite;
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 2rem;
+            background: linear-gradient(45deg, #00d4ff, #ff0080, #00d4ff);
+            background-size: 200% 200%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: gradientShift 3s ease-in-out infinite;
+        }
+
+        @keyframes gradientShift {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
+
+        .code-container {
+            background: #1e1e2e;
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 2rem 0;
+            position: relative;
+            border: 2px solid #00d4ff;
+            box-shadow: 0 0 30px rgba(0, 212, 255, 0.2);
+        }
+
+        .code-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .code-dots {
+            display: flex;
+            gap: 8px;
+            margin-right: 1rem;
+        }
+
+        .dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        .dot.red { background: #ff5f57; }
+        .dot.yellow { background: #ffbd2e; }
+        .dot.green { background: #28ca42; }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.6; }
+        }
+
+        .code-title {
+            color: #00d4ff;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .code-content {
+            font-family: 'Courier New', monospace;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #e0e0e0;
+        }
+
+        .keyword { color: #ff79c6; font-weight: 600; }
+        .string { color: #50fa7b; }
+        .comment { color: #6272a4; font-style: italic; }
+        .function { color: #8be9fd; }
+        .number { color: #bd93f9; }
+        .operator { color: #ff5555; }
+
+        .typing-effect {
+            border-right: 2px solid #00d4ff;
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            0%, 50% { border-right-color: #00d4ff; }
+            51%, 100% { border-right-color: transparent; }
+        }
+
+        .focus-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .focus-card {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            border-radius: 15px;
+            padding: 2rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .focus-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(0, 212, 255, 0.1), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .focus-card:hover::before {
+            left: 100%;
+        }
+
+        .focus-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0, 212, 255, 0.2);
+            border-color: #00d4ff;
+        }
+
+        .focus-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .focus-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: #00d4ff;
+        }
+
+        .focus-desc {
+            color: #b0b0b0;
+            line-height: 1.6;
+        }
+
+        .tech-stack {
+            margin-top: 4rem;
+        }
+
+        .tech-categories {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .tech-category {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+
+        .tech-category:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0, 212, 255, 0.1);
+        }
+
+        .tech-category h3 {
+            color: #00d4ff;
+            margin-bottom: 1.5rem;
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .tech-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+        }
+
+        .tech-badge {
+            background: linear-gradient(45deg, #00d4ff, #0099cc);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 25px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .tech-badge::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .tech-badge:hover::before {
+            left: 100%;
+        }
+
+        .tech-badge:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(0, 212, 255, 0.3);
+        }
+
+        .interactive-btn {
+            background: linear-gradient(45deg, #00d4ff, #ff0080);
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 2rem auto;
+            display: block;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .interactive-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .interactive-btn:hover::before {
+            left: 100%;
+        }
+
+        .interactive-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 25px rgba(0, 212, 255, 0.3);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .about-section {
+                padding: 2rem;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+            }
+            
+            .focus-section {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="about-section">
+            <h2 class="section-title">🎯 About Me</h2>
+            
+            <div class="code-container">
+                <div class="code-header">
+                    <div class="code-dots">
+                        <div class="dot red"></div>
+                        <div class="dot yellow"></div>
+                        <div class="dot green"></div>
+                    </div>
+                    <div class="code-title">ai_developer.py</div>
+                </div>
+                
+                <div class="code-content">
+                    <div id="code-display"></div>
+                    <span class="typing-effect" id="cursor"></span>
+                </div>
+            </div>
+
+            <div class="focus-section">
+                <div class="focus-card">
+                    <span class="focus-icon">🧠</span>
+                    <h3 class="focus-title">Deep Learning</h3>
+                    <p class="focus-desc">Neural Networks, CNNs, RNNs, Transformers, and cutting-edge architectures</p>
+                </div>
+                
+                <div class="focus-card">
+                    <span class="focus-icon">👁️</span>
+                    <h3 class="focus-title">Computer Vision</h3>
+                    <p class="focus-desc">Object detection, image classification, OCR, and visual AI applications</p>
+                </div>
+                
+                <div class="focus-card">
+                    <span class="focus-icon">🗣️</span>
+                    <h3 class="focus-title">Natural Language Processing</h3>
+                    <p class="focus-desc">Text analysis, sentiment analysis, chatbots, and language models</p>
+                </div>
+                
+                <div class="focus-card">
+                    <span class="focus-icon">🚀</span>
+                    <h3 class="focus-title">MLOps & Deployment</h3>
+                    <p class="focus-desc">Model deployment, monitoring, CI/CD for ML, and scalable solutions</p>
+                </div>
+            </div>
+
+            <button class="interactive-btn" onclick="toggleCodeAnimation()">
+                🔄 Restart Animation
+            </button>
+        </div>
 
 ---
 
@@ -90,21 +445,6 @@ class AIDeveloper:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
----
-
-## 🏆 Featured AI Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **AI Chatbot** | Intelligent conversational AI with NLP | Python, Transformers, Flask |
-| 👁️ **Computer Vision App** | Real-time object detection system | OpenCV, YOLO, TensorFlow |
-| 📊 **Predictive Analytics** | ML model for business forecasting | Scikit-learn, Pandas, Plotly |
-| 🧠 **Neural Network Framework** | Custom deep learning implementation | Python, NumPy, Matplotlib |
 
 </div>
 
@@ -161,19 +501,6 @@ class AIDeveloper:
 <div align="center">
   
   ### 📄 [**Download My Resume**](https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing)
-
-</div>
-
----
-
-## 💡 Fun Facts
-
-<div align="center">
-
-🎯 **Daily Routine:** Code → Train Models → Analyze Results → Repeat  
-🌟 **Belief:** "AI is not just about algorithms, it's about solving real problems"  
-🚀 **Mission:** Making AI accessible and beneficial for everyone  
-☕ **Fuel:** Coffee and curiosity about the next breakthrough in AI  
 
 </div>
 
