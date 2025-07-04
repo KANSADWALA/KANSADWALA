@@ -99,12 +99,13 @@
 
 ### 🧩 Soft Skills
 
-![Analytical Thinking](https://img.shields.io/badge/🧠_Analytical_Thinking-blueviolet?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/🤝_Collaboration-success?style=for-the-badge)
-![Resilience](https://img.shields.io/badge/🛡️_Resilience-orange?style=for-the-badge)
-![Adaptability](https://img.shields.io/badge/🔄_Adaptability-9cf?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-yellow?style=for-the-badge)
-![Communication](https://img.shields.io/badge/📢_Communication-lightgrey?style=for-the-badge)
+![🧠 Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-%23734AE8?style=for-the-badge&logo=knowledgebase&logoColor=white)
+![🤝 Collaboration](https://img.shields.io/badge/Collaboration-%2300C49A?style=for-the-badge&logo=teams&logoColor=white)
+![🛡️ Resilience](https://img.shields.io/badge/Resilience-%23FF7F50?style=for-the-badge&logo=probot&logoColor=white)
+![🔄 Adaptability](https://img.shields.io/badge/Adaptability-%23009688?style=for-the-badge&logo=cachet&logoColor=white)
+![🧩 Problem Solving](https://img.shields.io/badge/Problem_Solving-%23F9A826?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![📢 Communication](https://img.shields.io/badge/Communication-%230A66C2?style=for-the-badge&logo=wechat&logoColor=white)
+
 
 
 </div>
