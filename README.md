@@ -40,7 +40,7 @@
 <div align="left">
 
 🔬 **Exploring**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generative AI · LLMs · Computer Vision  
-🛠️ **Building**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End-to-End ML Pipelines · AI-Powered Products  
+🛠️ **Building**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End-to-End ML Pipelines · AI-Powered Products  
 📚 **Learning**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advanced DL Architectures · MLOps Best Practices  
 
 </div>
