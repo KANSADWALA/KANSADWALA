@@ -15,11 +15,14 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing"  target="_blank">
-  <img src="https://img.shields.io/badge/View_My_Resume-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="resume" />
+<h3>📄 My Resume</h3>
+
+<a href="https://drive.google.com/file/d/1nDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
+  <img src="https://media.giphy.com/media/3o7TKz2M2JhnAq26rm/giphy.gif" alt="resume" width="200"/>
 </a>
 
 </div>
+
 
 ---
 
