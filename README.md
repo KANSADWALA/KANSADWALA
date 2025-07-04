@@ -17,10 +17,11 @@
 </p>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/%20View%20My%20Resume-FF6F00?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=FF6F00" alt="resume" />
-</a>
+  <a href="https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-FF6F00?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=black" alt="**View My Resume**" />
+  </a>
 </div>
+
 
 
 ## 🤝 Let's Connect & Collaborate
