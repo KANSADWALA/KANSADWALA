@@ -15,6 +15,18 @@
 
 ---
 
+<div align="center">
+
+<h3>📄 Download My Resume</h3>
+
+<a href="https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-0072b1?style=for-the-badge&logo=google-drive&logoColor=white" alt="resume">
+</a>
+
+</div>
+
+---
+
 ## 🎯 About Me
 
 ```python
@@ -158,13 +170,6 @@ class AIDeveloper:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkansadwala@gmail.com)
 
 </div>
-
-<div align="center">
-  
-  ### 📄 [**Download My Resume**](https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing)
-
-</div>
-
 ---
 
 <div align="center">
