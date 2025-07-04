@@ -13,14 +13,11 @@
   <img src="https://img.shields.io/github/stars/KANSADWALA?label=Stars&style=for-the-badge&color=00d4ff" alt="Stars" />
 </p>
 
----
 
 <div align="center">
 
-<h3>📄 Download My Resume</h3>
-
 <a href="https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Resume-0072b1?style=for-the-badge&logo=google-drive&logoColor=white" alt="resume">
+  <img src="https://img.shields.io/badge/View%20Resume-0072b1?style=for-the-badge&logo=google-drive&logoColor=red" alt="resume">
 </a>
 
 </div>
