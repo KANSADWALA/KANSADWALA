@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham!</h1>
 
-## 🎯 About Me
+<h2 align="center">🎯 About Me</h2>
 
 ### AI Developer | Machine Learning Engineer
 
