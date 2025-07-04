@@ -34,7 +34,6 @@
 
 </div>
 
----
 
 ## 🚀 Current Focus & Learning
 
@@ -47,7 +46,7 @@
 
 </div>
 
----
+
 
 ## 🧠 AI/ML Tech Stack
 
@@ -110,8 +109,6 @@
 </div>
 
 
----
-
 
 ## 📊 GitHub Analytics
 
@@ -128,7 +125,6 @@
 
 </div>
 
----
 
 ## 🎖️ GitHub Achievements
 
@@ -138,7 +134,6 @@
 
 </div>
 
----
 
 ## 📈 Contribution Graph
 
@@ -148,7 +143,6 @@
 
 </div>
 
----
 
 <div align="center">
   
@@ -157,6 +151,8 @@
   ⭐ **If you find my work interesting, please consider starring my repositories!** ⭐
 
 </div>
+
+---
 
 
 
