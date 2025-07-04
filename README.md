@@ -150,12 +150,10 @@
 ---
 
 <div align="center">
-
-  <strong>"The future belongs to those who understand AI, but the present belongs to those who can build it."</strong>
   
-  <br><br>
+  **"The future belongs to those who understand AI, but the present belongs to those who can build it."**
   
-  <img src="https://github.com/denvercoder1/github-readme-streak-stats/blob/master/demo/animated-contributions.gif?raw=true" width="650" alt="Animated Contribution Calendar"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
