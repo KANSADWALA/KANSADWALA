@@ -56,7 +56,7 @@
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-F7DC3C?style=for-the-badge&logo=python&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF6F61?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2E7D32?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
