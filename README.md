@@ -1,5 +1,5 @@
 # 🤖 Shubham Kansadwala
-### AI Developer | Machine Learning Engineer | Data Scientist
+### AI Developer | Machine Learning Engineer
 
 <div align="center">
   
