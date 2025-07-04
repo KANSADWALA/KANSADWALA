@@ -4,16 +4,16 @@
 
 ### AI Developer | Machine Learning Engineer
 
-<div align="center">
+<div align="center"> 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+ML+Engineer;Building+Intelligent+Systems;Transforming+Data+into+Insights;Deep+Learning+%26+Neural+Networks)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KANSADWALA&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/KANSADWALA?label=Followers&style=for-the-badge&color=00d4ff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/KANSADWALA?label=Stars&style=for-the-badge&color=00d4ff" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=KANSADWALA&label=Profile%20views&color=0077B5&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KANSADWALA?label=Followers&style=for-the-badge&color=0077B5" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/KANSADWALA?label=Stars&style=for-the-badge&color=0077B5" alt="Stars" />
 </p>
 
 <div align="center">
