@@ -39,12 +39,10 @@
 
 <div align="left">
 
-### 🚀 What I'm Up To
-
-🔬 **Exploring**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Generative AI · LLMs · Computer Vision  
-🛠️ **Building**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| End-to-End ML Pipelines · AI-Powered Products  
-📚 **Learning**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Advanced DL Architectures · MLOps Best Practices  
-💡 **Researching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Explainable AI · Model Compression · Edge AI  
+🔬 **Exploring**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generative AI · LLMs · Computer Vision  
+🛠️ **Building**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End-to-End ML Pipelines · AI-Powered Products  
+📚 **Learning**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advanced DL Architectures · MLOps Best Practices  
+💡 **Researching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explainable AI · Model Compression · Edge AI  
 
 </div>
 
