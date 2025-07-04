@@ -38,13 +38,16 @@
 ## 🚀 Current Focus & Learning
 
 <div align="left">
-  
-  🔬 **Exploring:** Generative AI, Large Language Models, Computer Vision  
-  🛠️ **Building:** End-to-end ML pipelines, AI-powered applications  
-  📚 **Learning:** Advanced Deep Learning architectures, MLOps best practices  
-  💡 **Researching:** Explainable AI, Model Optimization, Edge AI  
+
+### 🚀 What I'm Up To
+
+🔬 **Exploring**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Generative AI · LLMs · Computer Vision  
+🛠️ **Building**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| End-to-End ML Pipelines · AI-Powered Products  
+📚 **Learning**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Advanced DL Architectures · MLOps Best Practices  
+💡 **Researching**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Explainable AI · Model Compression · Edge AI  
 
 </div>
+
 
 
 
