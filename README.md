@@ -150,10 +150,12 @@
 ---
 
 <div align="center">
+
+  <strong>"The future belongs to those who understand AI, but the present belongs to those who can build it."</strong>
   
-  **"The future belongs to those who understand AI, but the present belongs to those who can build it."**
+  <br><br>
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+is+not+magic%2C+it's+math+and+code.;Building+real-world+ML+systems+🚀;Making+data+work+for+you+📊;Welcome+to+my+AI+playground+🤖" alt="Typing animation" />
 
 </div>
 
