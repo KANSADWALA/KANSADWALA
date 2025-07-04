@@ -1,110 +1,36 @@
-<h1 align="center">Hi 👋, I'm Shubham Kansadwala</h1>
-<h3 align="center">AI Developer | ML Enthusiast | Data Whisperer 🧠📊</h3>
+<h1 align="center">Hi 👋, I'm Shubham!</h1>
+<h3 align="center">I have a strong passion for Machine Learning and Data Analytics</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KANSADWALA&label=Profile%20views&color=0e75b6&style=flat" alt="KANSADWALA" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KANSADWALA&label=Profile%20views&color=0e75b6&style=flat" alt="KANSADWALA" />
-</p>
+## 💫 About Me:
+<br>🌱 I’m currently diving deeper into Machine Learning and Data Science.<br>
 
----
+📫 How to reach me  <a href="mailto:shubhamkansadwala@gmail.com">shubhamkansadwala@gmail.com</a>.<br><br> 
 
-## 🚀 About Me
+![image](https://github.com/user-attachments/assets/46e753b4-7e34-4bb3-8c32-f291319c66a3) <a href = "https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing">My Resume</a>
 
-🎓 Final-year B.Tech student in Artificial Intelligence & Data Science  
-🤖 Passionate about Machine Learning, Computer Vision, and LLM-based applications  
-🛠️ Actively building real-world AI systems with Flask, Streamlit, and LangChain  
-📈 Deep interest in model interpretability, MLOps, and AI for social good  
-🎯 On a mission to build explainable, ethical, and impactful AI solutions
 
-📨 Reach out at: [shubhamkansadwala@gmail.com](mailto:shubhamkansadwala@gmail.com)  
-📄 [View My Resume](https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing)
 
----
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/shubham" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Shubhamw2" target="_blank"><img src="https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="https://instagram.com/shubham" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kansadwala_shubham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kansadwala) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShubhamKansadw2) 
 
----
-
-## 🧠 Tech Stack
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-
-**ML / DL / CV**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-**Data Tools & Visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
-
-**Backend & DevOps**  
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFA611.svg?style=for-the-badge&logo=firebase&logoColor=white)  
-![MLflow](https://img.shields.io/badge/MLflow-%23150528.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-
-**Other Tools**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KANSADWALA&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KANSADWALA&theme=tokyonight&hide_border=true" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANSADWALA&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
-
----
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KANSADWALA&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KANSADWALA&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KANSADWALA&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KANSADWALA&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KANSADWALA&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 🧠 **EmoSic** – Emotion-based music recommender using ResNet50 & GPT  
-- 📝 **Invoice Chatbot** – Upload PDF invoices, ask queries using LLM  
-- 🔐 **Credit Risk Modeling** – Predict loan risk with interpretable models  
-- 🔍 **DocSmart** – RAG-powered document summarization and retrieval  
-- 🎥 **Unattended Baggage Detection** – Real-time object detection + tracking  
-- 🧩 **NeuroSymbolic Reasoner** – Combine GNNs with symbolic logic + graph search
-
-➡️ More on my pinned repositories!
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KANSADWALA&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=KANSADWALA&icon=0&color=4)](https://visitcount.itsvg.in)
 
-## 🧭 Fun Fact
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-> I believe **AI isn't just code — it's reasoning with soul.** 🧠✨  
-> I’m always open to exciting collaborations and research-driven projects!
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KANSADWALA&icon=0&color=4" alt="visitcount"/>
-</p>
-
-<!-- Proudly crafted by Shubham Kansadwala -->
