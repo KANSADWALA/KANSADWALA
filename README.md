@@ -15,7 +15,7 @@
 
 <div align="center">
 <a href="https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=📄%20VIEW%20MY%20RESUME&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30" alt="View Resume" />
+  <img src="https://img.shields.io/badge/📄-Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=FF6F00" alt="Resume" />
 </a>
 </div>
 
