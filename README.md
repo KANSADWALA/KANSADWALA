@@ -1,4 +1,7 @@
 # 🤖 Shubham Kansadwala
+
+## 🎯 About Me
+
 ### AI Developer | Machine Learning Engineer
 
 <div align="center">
@@ -18,26 +21,6 @@
   <img src="https://img.shields.io/badge/%20View%20My%20Resume-FF6F00?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=20232A" alt="resume" />
 </a>
 </div>
-
----
-
-## 🎯 About Me
-
-```python
-class AIDeveloper:
-    def __init__(self):
-        self.name = "Shubham Kansadwala"
-        self.role = "AI Developer & Machine Learning Engineer"
-        self.location = "Surat, Gujarat, India"
-        self.languages = ["Python", "C++", "SQL"]
-        self.current_focus = [
-            "Deep Learning & Neural Networks",
-            "Computer Vision & NLP",
-            "MLOps & Model Deployment",
-            "Generative AI & LLMs"
-        ]
-        self.goals = "Building AI solutions that make a real-world impact"
-```
 
 ---
 
