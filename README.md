@@ -15,10 +15,8 @@
 
 <div align="center">
 
-<h3>📄 My Resume</h3>
-
-<a href="https://drive.google.com/file/d/1nDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
-  <img src="https://media.giphy.com/media/3o7TKz2M2JhnAq26rm/giphy.gif" alt="resume" width="200"/>
+<a href="https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-FF6F00?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=20232A" alt="resume" />
 </a>
 
 </div>
