@@ -15,7 +15,7 @@
 
 <div align="center">
 <a href="https://drive.google.com/file/d/1nkNp_0sDzaLxGcdFn8uQITTmhRpcIY6i/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/📄-Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=FF6F00" alt="Resume" />
+  <img src="https://img.shields.io/badge/💼%20RESUME-Download%20Now-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0366D6" alt="Download Resume" />
 </a>
 </div>
 
