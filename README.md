@@ -155,9 +155,10 @@
   
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+is+not+magic%2C+it's+math+and+code.;Building+real-world+ML+systems+🚀;Making+data+work+for+you+📊;Welcome+to+my+AI+playground+🤖" alt="Typing animation" />
+  <img src="https://github.com/denvercoder1/github-readme-streak-stats/blob/master/demo/animated-contributions.gif?raw=true" width="650" alt="Animated Contribution Calendar"/>
 
 </div>
+
 
 ---
 
