@@ -23,7 +23,7 @@ class AIDeveloper:
         self.name = "Shubham Kansadwala"
         self.role = "AI Developer & Machine Learning Engineer"
         self.location = "India"
-        self.languages = ["Python", "C++", "JavaScript", "SQL"]
+        self.languages = ["Python", "C++", "SQL"]
         self.current_focus = [
             "Deep Learning & Neural Networks",
             "Computer Vision & NLP",
@@ -31,14 +31,6 @@ class AIDeveloper:
             "Generative AI & LLMs"
         ]
         self.goals = "Building AI solutions that make a real-world impact"
-    
-    def get_specialties(self):
-        return {
-            "machine_learning": ["Supervised", "Unsupervised", "Reinforcement Learning"],
-            "deep_learning": ["CNN", "RNN", "Transformers", "GANs"],
-            "frameworks": ["TensorFlow", "PyTorch", "Keras", "Scikit-learn"],
-            "deployment": ["Flask", "Docker", "AWS", "MLflow"]
-        }
 ```
 
 ---
