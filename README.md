@@ -64,6 +64,8 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-5C267D?style=for-the-badge&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-800080?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Data Science & Analytics  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
