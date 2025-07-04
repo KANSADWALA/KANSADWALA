@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham!</h1>
 
-<h3 align="left">🎯 About Me</h3>
+<div align="center">
+    
+   **🎯 About Me** 
+
+</div>
 
 ### AI Developer | Machine Learning Engineer
 
@@ -146,9 +150,7 @@
 
 
 <div align="center">
-  
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=KANSADWALA&icon=2&color=6)
-  
+    
   ⭐ **If you find my work interesting, please consider starring my repositories!** ⭐
 
 </div>
