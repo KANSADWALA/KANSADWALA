@@ -85,11 +85,6 @@
 ![NLTK](https://img.shields.io/badge/NLTK-204E4A?style=for-the-badge&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
 
-### MLOps & Deployment  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6C757D?style=for-the-badge&logo=api&logoColor=white)
-
 ### Backend Frameworks  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
