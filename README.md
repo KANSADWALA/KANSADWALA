@@ -16,12 +16,6 @@
   <img src="https://img.shields.io/github/stars/KANSADWALA?label=Stars&style=for-the-badge&color=0077B5" alt="Stars" />
 </p>
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/18XkP_EUYLUPFxyehEy4OIFFfVzhU1rbx/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Resume-FF6F00?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=FF6F00" alt="**View My Resume**" />
-  </a>
-</div>
-
 
 
 ## 🤝 Let's Connect & Collaborate
